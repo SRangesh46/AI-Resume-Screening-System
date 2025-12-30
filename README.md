@@ -1,5 +1,5 @@
-  AI-Resume-Screening-System
-Developed an AI-based Resume Screening System using Python, spaCy, pdfminer.six, and docx2txt to automatically extract skills from multiple resumes and score candidates against job requirements with ~90% accuracy. The system processes resumes sequentially, handles unsupported formats, and generates CSV reports to support efficient HR shortlisting.
+AI-Resume Screening System
+
 The AI Resume Screening System is an automated solution designed to analyze and rank resumes based on their relevance to a given job description. The system extracts skills from multiple resumes, compares them with required job skills, and assigns a matching score to each candidate. This helps HR teams reduce manual screening time and improve shortlisting efficiency.
 
 
